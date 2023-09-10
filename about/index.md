@@ -1,13 +1,16 @@
 ---
 layout: page
 title: About
+cover: 'assets/images/Bamboo-Forecast-1.jpeg'
 navigation: true
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/Bamboo-trans-logo-450150.png'
 current: about
 ---
 
-This is a demo blog for Ghost, it contains dummy content which allows you to click around and see what a Ghost blog running the default theme looks like.
+Bamboo&Life stands as a testament to the power of passion, purpose, and unwavering dedication. Through their commitment to well-being and environmental consciousness.
 
-We use this for testing and for reference!
+The founders, Vivian Hou and Jacky Cheung invites you to join them on their mission to rediscover the beauty of nature, embrace well-being, and become stewards of the environment. 
 
-If you'd like to set up your own blog, head on over to [https://ghost.org](https://ghost.org) and sign up.
+Together, we can build a more sustainable world, one bamboo-inspired step at a time.
+
+

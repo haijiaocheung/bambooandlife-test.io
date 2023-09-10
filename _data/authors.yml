@@ -1,11 +1,11 @@
-casper:
-  username: casper
-  name: Casper McFadden
-  location: Maine, USA
-  url_full: http://jekyllt.github.io/jasper/
-  url: jekyllt.github.io/jasper
-  bio: A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and a friendly one, Casper.
-  assets: assets/images/casper.png
+Bamboo&Life:
+  username: Bamboo&Life
+  name: Bamboo & Life
+  location: CASPER, WYOMING, USA
+  url_full: https://www.bambooandlife.co.uk/
+  url: www.bambooandlife.co.uk
+  bio: The side of well-being
+  assets: assets/images/Bamboo-trans-logo.png
 lewis:
   username: lewis
   name: Lewis Carroll

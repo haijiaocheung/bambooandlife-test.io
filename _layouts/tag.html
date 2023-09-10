@@ -1,18 +1,19 @@
 ---
 layout: default
-cover: 'assets/images/cover2.jpg'
+cover: 'assets/images/desktop.jpg'
 class: 'tag-template'
 navigation: True
-logo: 'assets/images/ghost.png'
+logo: 'assets/images/Bamboo-trans-logo-450150.png'
 current: tag
 ---
 
 <!-- dynamically overriding backgrounds for tags as well as descriptions -->
-{% if page.url contains 'fables' %}
-   {% assign tag_description='A series of short stories that make you think.' %}
-{% elsif page.url contains 'speeches' %}
-    {% assign new_cover='assets/images/cover7.jpg' %}
-    {% assign tag_description='Some of the greatest words ever spoken.' %}
+{% if page.url contains 'Brand-story' %}
+   {% assign tag_description='The side of well-being.' %}
+   {% assign new_cover='assets/images/Bamboo-Forecast-1.jpeg' %}
+{% elsif page.url contains 'Catelogue' %}
+    {% assign new_cover='assets/images/Bamboo-weaving-1.jpeg' %}
+    {% assign tag_description='With their innovative products and heartfelt dedication, Bamboo&Life invites you to embark on a journey of harmony and sustainability.' %}
 {% elsif page.url contains 'fiction' %}
     {% assign new_cover='assets/images/cover1.jpg' %}
 {% endif %}
